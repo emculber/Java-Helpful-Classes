@@ -1,5 +1,3 @@
-package com.ultimatumedia.Budgeter.input;
-
 import java.util.Scanner;
 
 public class inputChecker {
